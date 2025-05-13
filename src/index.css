@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family : 'pricedown';
+  src: url('./assets/pricedown bl.ttf') ;
+}
+html {
+  font-family : 'pricedown'
+}
+.text {
+   font-family : 'pricedown'
+}
+.main-div{
+  box-shadow: inset 0 -40px 70px black ;
+}
